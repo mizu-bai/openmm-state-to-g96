@@ -5,7 +5,8 @@ Convert OpenMM state xml to g96 format
 ## Usage
 
 ```shell
-$ usage: state2g96 [-h] -f F [-o O]
+$ python3 state2g96.py -h
+usage: state2g96 [-h] -f F [-o O]
 
 Convert OpenMM state xml to g96 format.
 
